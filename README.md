@@ -51,3 +51,5 @@
 7. Autenticação *Em contrução
 
 8. Executar ações após inserção/alteração/delete na tabela *Em contrução
+
+9. Paginação *Em construção
