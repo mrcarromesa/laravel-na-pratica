@@ -47,3 +47,7 @@
 6. [Laravel parte 6](https://github.com/mrcarromesa/laravel-parte6)
 
 - Relacionamento de muitos para muitos
+
+7. Autenticação *Em contrução
+
+8. Executar ações após inserção/alteração/delete na tabela *Em contrução
