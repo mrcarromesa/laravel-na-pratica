@@ -48,7 +48,9 @@
 
 - Relacionamento de muitos para muitos
 
-7. Autenticação *Em contrução
+7. [Laravel parte 7](https://github.com/mrcarromesa/laravel-parte7)
+
+- Autenticação via API
 
 8. Executar ações após inserção/alteração/delete na tabela *Em contrução
 
