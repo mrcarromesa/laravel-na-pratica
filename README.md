@@ -52,6 +52,8 @@
 
 - Autenticação via API
 
-8. Executar ações após inserção/alteração/delete na tabela *Em contrução
+8. [Executar ações após inserção/alteração/delete na tabela](https://github.com/mrcarromesa/laravel-parte8)
 
-9. Paginação *Em construção
+9. [Enviando e-mail - continuação parte 8](https://github.com/mrcarromesa/laravel-parte9)
+
+10. [Enviando notificação para o slack](https://github.com/mrcarromesa/laravel-parte10)
